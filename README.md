@@ -71,7 +71,7 @@ In `_quarto.yml`
 
 In the various `.qmd` files
 
--   Do a find and replace everywhere (cmd + shift + F in RStudio) for the following: "GROUP_NAME", "PI_NAME", and "PI_EMAIL".
+-   Do a find and replace everywhere (cmd + shift + F in RStudio) for the following: "eugene-lab", "Eugene Hickey", and "eugene.hickey@tudublin.ie".
 
 -   Red callout boxes titled "Group Edit" hold suggestions for what content to include on that page/section.
     These should be deleted once the edits happen.
