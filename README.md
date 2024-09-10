@@ -1,4 +1,4 @@
-# Lab Group Handbook Template
+# Eugene Lab Group Handbook Template
 
 <!-- badges: start -->
 
